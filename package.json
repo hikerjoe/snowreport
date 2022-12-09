@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/joeklos/weather#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "request": "^2.88.0"
   }
 }
